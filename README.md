@@ -1,4 +1,4 @@
-![MasterHead](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/como-criar-um-readme-para-seu-perfil-github.jpg)
+![MasterHead](https://camo.githubusercontent.com/a055af903484dffc7deeb2774a5fa87c2d98f51e170d3fbaaece5eb3b1dbb1d2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6462616d61336e75622f696d6167652f75706c6f61642f76313639363832363536302f504553516e38415f7a7271766f6f2e706e67)
 <h1 align="center">Hi 👋, I'm Meghna Kumari</h1>
 <h3 align="center">A passionate frontend developer and competitive Programmer.</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
